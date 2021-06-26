@@ -1,4 +1,4 @@
-cosnt express = require('express');
+const express = require('express');
 const { get } = require('axios');
 
 const PORT = 4321;
